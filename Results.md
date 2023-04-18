@@ -15,11 +15,11 @@ Rekkless over 7.0 :heavy_check_mark:
 ### April 16
 Glory over 9.0 :heavy_check_mark:  
 Vit over 13.5 :x:  
-Kobbe under 10.5 :x:  
-Yike over 8.5 :x:  
-Hans Sama over 10.0 :x:  
-Larssen under 6.0 :x:  
-Comp under 6.0 :heavy_check_mark:  
+(U) Kobbe under 10.5 :x:  
+(U) Yike over 8.5 :x:  
+(U) Hans Sama over 10.0 :x:  
+(U) Larssen under 6.0 :x:  
+(U) Comp under 6.0 :heavy_check_mark:  
 
 ### April 18
 BAO over 15.0 :x:  
