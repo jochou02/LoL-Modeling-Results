@@ -16,7 +16,18 @@ Rekkless over 7.0 :heavy_check_mark:
 Glory over 9.0 :heavy_check_mark:  
 Vit over 13.5 :x:  
 Kobbe under 10.5 :x:  
-Yike over 8.5 :trident:  
-Hans Sama over 10.0 :x: 
+Yike over 8.5 :x:  
+Hans Sama over 10.0 :x:  
 Larssen under 6.0 :x:  
 Comp under 6.0 :heavy_check_mark:  
+
+### April 18
+BAO over 15.0 :x:  
+Jeskla under 13.5 :heavy_check_mark:  
+White under 6.0 :heavy_check_mark:   
+Kryze under 8.0 :heavy_check_mark:  
+Backlund under 13.0 :heavy_check_mark:    
+(U) Lurox under 11.5 :x:  
+(U) Vzz over 13.0 :x:  
+(U) ACD under 8.5 :heavy_check_mark:  
+(U) Cboi over 5.5 :x:  
