@@ -31,3 +31,9 @@ Backlund under 13.0 :heavy_check_mark:
 (U) Vzz over 13.0 :x:  
 (U) ACD under 8.5 :heavy_check_mark:  
 (U) Cboi over 5.5 :x:  
+
+### May 3
+Bin	under	8.0	:heavy_check_mark:  
+Mireu	over 4.0 :x: 
+Kati over 4.5 :x: 
+Sty1e	under	7.5	:heavy_check_mark:  
